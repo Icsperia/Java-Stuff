@@ -1,0 +1,16 @@
+MOVIE_ID,TITLE,DIRECTOR,GENRE,YEAR,DURATION_MINUTES,BUDGET_MILLIONS,RATING
+1,The Godfather,Francis Ford Coppola,Crime,1972,175,6,9.2
+2,The Shawshank Redemption,Frank Darabont,Drama,1994,142,25,9.3
+3,Pulp Fiction,Quentin Tarantino,Crime,1994,154,8,8.9
+4,The Dark Knight,Christopher Nolan,Action,2008,152,185,9.0
+5,Fight Club,David Fincher,Drama,1999,139,63,8.8
+6,Schindler's List,Steven Spielberg,Biography,1993,195,22,8.9
+7,Inception,Christopher Nolan,Action,2010,148,160,8.8
+8,Forrest Gump,Robert Zemeckis,Drama,1994,142,55,8.8
+9,The Matrix,Lana Wachowski,Action,1999,136,63,8.7
+10,The Social Network,David Fincher,Biography,2010,120,40,7.7
+11,Mad Max: Fury Road,George Miller,Action,2015,120,150,8.1
+12,Spotlight,Tom McCarthy,Crime,2015,128,20,8.1
+13,Zootopia,Byron Howard,Animation,2016,108,150,8.0
+14,The Jungle Book,Jon Favreau,Adventure,2016,106,175,7.4
+15,Captain Fantastic,Matt Ross,Drama,2016,118,5,7.9

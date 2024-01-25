@@ -1,0 +1,16 @@
+ID,RUTA,STATIE_PLECARE,STATIE_SOSIRE,ORA_PLECARE,ORA_SOSIRE,CLASA,TIP_BILET,PRET,STATUS 
+1,Bucuresti-Cluj,Bucuresti,Cluj,05:00,13:00,1,Adult,150.00,Disponibil 
+2,Cluj-Brasov,Cluj,Brasov,09:30,13:30,2,Copil,75.00,Vandut 
+3,Timisoara-Iasi,Timisoara,Iasi,07:45,20:00,1,Adult,200.00,Disponibil 
+4,Sibiu-Constanta,Sibiu,Constanta,22:00,06:00,2,Adult,180.00,Vandut 
+5,Iasi-Bucuresti,Iasi,Bucuresti,10:00,18:00,1,Student,100.00,Disponibil 
+6,Brasov-Sibiu,Brasov,Sibiu,14:00,17:00,2,Adult,90.00,Disponibil 
+7,Constanta-Cluj,Constanta,Cluj,19:00,05:00,1,Adult,220.00,Vandut 
+8,Bucuresti-Timisoara,Bucuresti,Timisoara,12:00,20:00,2,Student,130.00,Disponibil 
+9,Cluj-Sibiu,Cluj,Sibiu,11:00,15:00,1,Adult,110.00,Disponibil 
+10,Sibiu-Timisoara,Sibiu,Timisoara,08:00,12:00,2,Copil,60.00,Vandut 
+11,Iasi-Brasov,Iasi,Brasov,13:00,21:00,1,Adult,170.00,Disponibil 
+12,Brasov-Constanta,Brasov,Constanta,16:00,22:00,2,Adult,150.00,Vandut 
+13,Timisoara-Bucuresti,Timisoara,Bucuresti,03:00,11:00,1,Student,120.00,Disponibil 
+14,Constanta-Iasi,Constanta,Iasi,15:00,23:00,2,Adult,195.00,Vandut 
+15,Bucuresti-Brasov,Bucuresti,Brasov,06:00,09:00,1,Adult,80.00,Disponibil 

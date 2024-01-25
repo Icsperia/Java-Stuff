@@ -1,0 +1,16 @@
+GAME_ID,TITLE,DEVELOPER,GENRE,RELEASE_YEAR,PLATFORMS,PRICE,RATING,PLAYTIME
+101,The Elder Scrolls V: Skyrim,Bethesda,RPG,2011,PC/PS3/Xbox 360,40,4.5,50
+102,God Of War,Santa Monica Studio,Action,2018,PS4,50,4.8,30
+103,The Legend of Zelda: Breath of the Wild, Nintendo,Adventure,2017,Switch/Wii U,60,4.9,50
+104,Portal 2, Valve,Puzzle,2011,PC/PS3/Xbox 360,20,4.7,12
+105,Red Dead Redemption 2,Rockstar Games,Action-Adventure,2018,PC/PS4/Xbox One,55,4.6,60
+106,Halo:Combat Evolved,Bungie,FPS,2001,Xbox/PC,25,4.3,10
+107,Minecraft,Mojang,SandBox,2011,Multi-platform,30,4.4,999
+108,Stardew Valley,ConcernedApe,Simulator,2016,Multi-platform,15,4.7,70
+109,Among Us,InnerSloth,Party,2018,Multi-platform,5,3.8,4
+110,Celeste,Maddy Makes Games,Platformer,2018,Multi-platform,20,4.7,15
+111,Dark Souls III,FromSoftware,RPG,2016,PC/PS4/Xbox One,60,4.5,35
+112,Fortnite,Epic Games,Battle Royale,2017,Multi-platform,Free,3.9,999
+113,Overwatch,Blizzard Entertainment,FPS,2016,PC/PS4/Xbox One,40,4.2,999
+114,Cuphead,Studo MDHR,Run and Gun,2017,PC/XBOX One/Switch/PS4,20,4.6,20
+115,Hollow Knight,Team Cherry,Metroidania,2017,Multi-platform,15,4.8,25
