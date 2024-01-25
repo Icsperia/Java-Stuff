@@ -1,0 +1,16 @@
+ID,NUME,LOCATIE,DATA_START,DATA_FINAL,NR_ARTISTI,GEN_MUZICAL,TAXA_ACCES,STATUS
+1,Untold,Cluj-Napoca,2023-08-03,2023-08-06,100,Electronic,500.00,Programat
+2,Electric Castle,Bontida,2023-07-18,2023-07-22,80,Rock,400.00,Programat
+3,Jazz in the Park,Cluj-Napoca,2023-06-25,2023-06-30,50,Jazz,150.00,Finalizat
+4,Airfield Festival,Sibiu,2023-07-15,2023-07-18,30,Rock,250.00,Programat
+5,Rockstadt Extreme Fest,Rasnov,2023-08-10,2023-08-14,40,Rock,300.00,Anulat
+6,Summer Well,Buftea,2023-08-05,2023-08-07,50,Indie,350.00,Programat
+7,ARTmania Festival,Sibiu,2023-07-25,2023-07-27,20,Rock,200.00,Programat
+8,George Enescu Festival,Bucuresti,2023-09-01,2023-09-24,200,Clasic,600.00,Programat
+9,Street Food Festival,Cluj-Napoca,2023-05-20,2023-05-25,0,Diverse,80,Finalizat
+10,Garana Jazz Festival,Garana,2023-07-09,2023-07-12,25,Jazz,180.00,Programat
+11,Sunwaves,Mamaia,2023-08-15,2023-08-20,70,Electronic,450.00,Programat
+12,Dakini,Tuzla,2023-06-27,2023-07-01,40,Electronic,220.00,Anulat
+13,Afterhills,Iasi,2023-06-05,2023-06-09,60,Rock,300.00,Programat
+14,Transylvania Calling,Transilvania,2023-07-20,2023-07-25,30,Electronic,200.00,Programat
+15,Revolution Festival,Timisoara,2023-05-31,2023-06-02,45,Rock,250.00,Programa
