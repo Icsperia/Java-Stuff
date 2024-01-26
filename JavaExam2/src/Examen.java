@@ -87,7 +87,12 @@ public static ArrayList<Examen> ExamenReader(String filepath){
 
     @Override
     public int compareTo(Examen o) {
-        return this.NOTA_FINALA.compareTo(o.NOTA_FINALA);
+
+     if(this.NOTA_CITIRE>o.NOTA_SCRIERE)
+        return 1;
+     else if (this.NOTA_SCRIERE<o.NOTA_CITIRE)
+   return -1;
+     return o.NOTA_FINALA.compareTo(this.NOTA_FINALA);
     }
 
 
