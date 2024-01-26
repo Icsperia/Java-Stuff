@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -42,5 +44,31 @@ ArrayList<Examen> ex1=new ArrayList<>(Ex);
    for(Examen ex:exmas){
        System.out.println(ex);
    }
+
+        HashMap<String, ArrayList<Examen>> groupedConferences = new HashMap<>();
+        for (Examen conference :Ex ) {
+            String examen= conference.getEXAMEN();
+            if (!groupedConferences.containsKey(examen)) {
+                groupedConferences.put(examen, new ArrayList<>());
+            }
+            groupedConferences.get(examen).add(conference);
+        }
+
+
+        System.out.println("\nExamen grupate dupa STATUS si sortate dupa taxa de inscriere:");
+        for (String examen : groupedConferences.keySet()) {
+            System.out.println("Examn cu statusul '" + examen + "':");
+
+
+            ArrayList<Examen> conferencesByStatus = groupedConferences.get(examen);
+            Collections.sort(conferencesByStatus);
+
+            for (Examen conference : conferencesByStatus) {
+                System.out.println(conference);
+            }
+            System.out.println();
+        }
     }
+
+
 }
